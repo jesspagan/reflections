@@ -1,0 +1,51 @@
+March 17, 2016
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Using diff to compare two versions of a file helps me to narrow down to only
+focus on the lines where changes where made and find what could be wrong.
+It saves time instead to check the entire file.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You will not have to worry to create multiple files with different names to keep track of changes.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros of manually choosing when to create a git are that you have control of when to commit, there will be not
+ commits in the middle of changes and you can add short messages that discribe the changes in the commit. 
+The cons are that the frecuency of commits is mostly by judgement of the programmer; it may commit too 
+many changes at once or create to many commits for every single change.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git was created as a version control systems for projects, where most of the time 
+the have more than one file and they are are connected from one to another. So keeping track of changes in multiple files are 
+helpful and faster. Others like Google Docs are based to work on files that are not related and use separated. 
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The command git log will show me the whole commit hisory starting with the most recent commit made,
+and git diff will compare two commits and display the lines that where deleted or added from the oldest to the newest.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version control, I can feel secure to make changes that can create bugs since I can use the command git checkout
+to go back to previous commits where the projects was working correctly and identify the source of the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I already used it before for projects at school. Now it looks prettier.
+
+Reflection:
+How did viewing a diff between two versions help you spot the bug?

@@ -1,17 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When you initialize a repository, a hidden file called git its created. This file
+  When you initialize a repository, a hidden file called git its created. This file
 will contain all the metadata of the commits and the repository.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-The staging area contains only the files that will be committed. The working area contains
+  The staging area contains only the files that will be committed. The working area contains
 all the files that you are using for the specific project. The repository contains the versions
 of the files that you submit creating commits.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+  The staging area will hold only the files that I want to include in a specific
+commit. It gives me the control to decide which file will be track on changes.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?

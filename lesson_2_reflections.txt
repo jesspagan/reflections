@@ -19,10 +19,24 @@ commit. It gives me the control to decide which file will be track on changes.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  Adding a new feature or creating a new version are some situations when branches
+would help to separate the changes from the new part of the project from the
+changes of the main part of the project. Continuing having a working version.
+
 How do the diagrams help you visualize the branch structure?
+
+  The diagrams help us see where the commits where made, if the is a detached commit
+and the relations from one branch to another branch by their commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+  Merging two branches together will add all the commits from one branch to the
+branch you are checkout. The way it was represent in the diagram explain that, after
+the merging you can access all the commits of both branches from the one checkout.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+    The pro of Git's automatic merging is that it can resolve obvious conflict for us
+but the con is that it may resolve a conflict not including a commit that we want it. 

@@ -27,7 +27,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I could use a web app like Floobits where two people can collaborate live
+    and test the code, it would be easier since we would share the same files
+    and all the changes will reflect automatically on mine. The cons is that,
+    to work, you need to be online while using it. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

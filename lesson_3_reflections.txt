@@ -21,7 +21,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can work with the latest version of the repository offline with the
+    recent changes made.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
